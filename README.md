@@ -50,16 +50,13 @@ Watch the full video tutorial on YouTube:
 
 ## 🖼️ Screenshots
 
-### 1. Title Slide  
-(![LOW PASS FILTER - YOUTUBE ANDC](https://github.com/user-attachments/assets/45848ba6-d45e-4f9f-9fae-9d39a47cdc6a)
-
-### 2. Circuit Diagram  
+### 1. Circuit Diagram  
 ![figure1](https://github.com/user-attachments/assets/6ef43bca-ceb0-4327-8915-c448f9fcf7a9)
 
-### 3. Frequency Response  
+### 2. Frequency Response  
 ![graph LPF](https://github.com/user-attachments/assets/368285a8-6c43-4a32-afb0-56eb04c2e35e)
 
-### 4. Gain Equation  
+### 3. Gain Equation  
 ![voltagegain](https://github.com/user-attachments/assets/d7fd8b7b-27aa-4ac4-b4d3-1c46ad712890)
 
 ---
